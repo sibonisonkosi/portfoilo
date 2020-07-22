@@ -1,1 +1,1 @@
-web: gunicorn SM_Nkosi_Portfoilo.wsgi
+web: gunicorn Sibonisonkosi.wsgi
